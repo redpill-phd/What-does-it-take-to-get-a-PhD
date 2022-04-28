@@ -26,9 +26,9 @@ It is more than likely that your advisor will only provide you with some basic e
 
 ## Then how am I supposed to do this?!
 
-Most successful Ph.D. students usually already have a "gig" **_before_** they come into the program. For example, they may already published papers during their undergraduate or master years, or at least have deep experiences working with established graduate students in department research labs.
+Most successful Ph.D. students usually already have a "gig" _before_ they come into the program. For example, they may already published papers during their undergraduate or master years, or at least have deep experiences working with established graduate students in department research labs.
 
-It is ideal that these are the only students the professors can hire because they are competitive and self-sufficient. But in reality if the admission standards are this high, most professors will have trouble finding students. This leads professors to hire underqualified students, but the expectation remains the same, leading to unhappy and struggling Ph.D.s.
+It is ideal that these are the only students the professors can hire because such students are competitive and self-sufficient, requiring little advisor attention while delivering maximum publication output. But in reality if the admission standards are this high, most professors will have trouble finding students. This leads professors to hire underqualified students, but the expectation remains the same, leading to unhappy and struggling Ph.D.s.
 
 ## Main takeaways
 
